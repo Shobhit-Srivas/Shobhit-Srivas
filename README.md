@@ -9,6 +9,14 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy solving coding problems and building mini projects daily 🚀**
 
+##  👨‍💻 About Me:
+Hello! 👋 I’m Shobhit Srivastava, a dedicated and enthusiastic computer science learner currently pursuing a Master of Computer Applications (MCA) 🎓. I have a strong passion for software development, problem-solving, and building real-world applications 💻🚀. My goal is to secure a challenging role in a progressive, technology-driven organization where I can apply my skills, learn continuously, and grow professionally 🌱.
+
+I have hands-on experience with programming languages such as C, Java (Basic), and Python 🧠📌, along with a solid foundation in HTML, CSS, and JavaScript 🌐. I actively practice Data Structures, Algorithms, and logical problem-solving, and I have solved 400+ basic and easy-level problems on GeeksforGeeks 📊✅. Additionally, solving 500+ problems on CodeChef has helped me improve my coding consistency, efficiency, and logical thinking 🔍⚙️.
+
+I have worked on multiple academic and personal projects including frontend website clones, a real-time weather application using REST APIs, and a personal portfolio website 🛠️💡. I also built a Food Delivery System using PHP and MySQL, developed a To-Do List application using HTML, CSS, and JavaScript, and completed several React-based mini projects such as a Counter App, Password Generator App, and other interactive applications. These projects significantly enhanced my practical knowledge and confidence in full-stack and web development 🚀.
+
+My achievements include securing First Position in Coding Contests, earning Golden Badges in C and SQL on HackerRank, and achieving Three Stars in Problem Solving 🏆⭐. I strongly believe in continuous learning, regular practice, and community-driven growth 🤝📘. GeeksforGeeks plays an important role in my journey, helping me learn, practice, and improve every day 😊✨.
 
 
 ## 🌐 Socials:
@@ -21,11 +29,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shobhit-Srivas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Shobhit-Srivas&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shobhit-Srivas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shobhit-Srivas&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shobhit-Srivas&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
