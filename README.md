@@ -1,24 +1,27 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **web development projects and DSA practice**
-- 🌱 I’m currently learning **Data Structures & Algorithms, React, and backend concepts**
-- 👯 I’m looking to collaborate on **open-source projects and beginner-friendly web apps**
-- 🤔 I’m looking for help with **advanced DSA and system design basics**
-- 💬 Ask me about **C, Python, Java, HTML, CSS, JavaScript, PHP, SQL, or coding practice platforms**
+- 🔭 I’m currently working on **Data Analytics, Data Science, and Python projects**
+- 🌱 I’m currently learning **Machine Learning, Advanced SQL, Power BI, and Data Visualization**
+- 👯 I’m looking to collaborate on **Data Science, Analytics, and Open-Source Projects**
+- 🤔 I’m looking for help with **Machine Learning, Statistics, and Data Engineering concepts**
+- 💬 Ask me about **Python, SQL, Power BI, Pandas, NumPy, Streamlit, and Data Analytics**
 - 📫 How to reach me: **https://www.linkedin.com/in/shobhit-srivastava-7a5369264/**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy solving coding problems and building mini projects daily 🚀**
+- ⚡ Fun fact: **I enjoy transforming raw data into meaningful insights and building data-driven solutions 📊🚀**
 
 
 ##  👨‍💻 About Me:
 
-Hello! 👋 I’m Shobhit Srivastava, a dedicated and enthusiastic computer science learner currently pursuing a Master of Computer Applications (MCA) 🎓. I have a strong passion for software development, problem-solving, and building real-world applications 💻🚀. My goal is to secure a challenging role in a progressive, technology-driven organization where I can apply my skills, learn continuously, and grow professionally 🌱.
+Hello! 👋 I'm Shobhit Srivastava, an MCA Graduate 🎓 and aspiring Data Scientist passionate about Data Science, Data Analytics, Machine Learning, and problem-solving 📊🤖.
 
-I have hands-on experience with programming languages such as C, Java (Basic), and Python 🧠📌, along with a solid foundation in HTML, CSS, and JavaScript 🌐. I actively practice Data Structures, Algorithms, and logical problem-solving, and I have solved 400+ basic and easy-level problems on GeeksforGeeks 📊✅. Additionally, solving 500+ problems on CodeChef has helped me improve my coding consistency, efficiency, and logical thinking 🔍⚙️.
+I have hands-on experience in Python, SQL, Power BI, Pandas, NumPy, and Streamlit, along with a strong foundation in data analysis, visualization, and statistical thinking. Through academic learning and practical projects, I have developed the ability to collect, clean, analyze, and visualize data to uncover valuable insights and support data-driven decision-making.
 
-I have worked on multiple academic and personal projects including frontend website clones, a real-time weather application using REST APIs, and a personal portfolio website 🛠️💡. I also built a Food Delivery System using PHP and MySQL, developed a To-Do List application using HTML, CSS, and JavaScript, and completed several React-based mini projects such as a Counter App, Password Generator App, and other interactive applications. These projects significantly enhanced my practical knowledge and confidence in full-stack and web development 🚀.
+I have built multiple projects including Insurance Premium Predictor, Heart Disease Prediction System, WeatherVision Dashboard, interactive Streamlit applications, and Power BI dashboards 🛠️📈.
 
-My achievements include securing First Position in Coding Contests, earning Golden Badges in C and SQL on HackerRank, and achieving Three Stars in Problem Solving 🏆⭐. I strongly believe in continuous learning, regular practice, and community-driven growth 🤝📘. GeeksforGeeks plays an important role in my journey, helping me learn, practice, and improve every day 😊✨.
+My achievements include completing 120 Days of Python Practice, 50 Days of Pandas Practice, and 30 Days of NumPy Practice, along with earning Golden Badges in Python and SQL on HackerRank 🏆⭐.
+
+I strongly believe in continuous learning, consistency, and innovation 🌱. My goal is to leverage data and technology to solve business challenges, generate actionable insights, and contribute to impactful solutions while growing as a Data Scientist and Analytics Professional 🚀.
+
 
 
 # 💻 Tech Stack:
